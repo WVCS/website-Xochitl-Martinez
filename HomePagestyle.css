@@ -22,9 +22,8 @@ img{
 }
 
 iframe{
-  border: dotted #4B2E39 7px;
+  border: dotted #4B2E39 6px;
 }
-
 ul{
   list-style-type: none;
   position: fixed;
@@ -35,7 +34,7 @@ li{
   float: left;
 }
 li a{
-  padding: 40px;
+  padding: 20px;
   font-family:"Vidaloka";
   border-style: dotted;
   color: 377A0A9;
